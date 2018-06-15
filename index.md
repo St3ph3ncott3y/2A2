@@ -8,7 +8,7 @@
 * [Stephen]()
 * [Jackson]()
 * [Nathan D]()
-* [Anthony]()
+* [Anthony](https://github.com/Buddy312)
 * [Liam]()
 * [Adam]()
 * [Dakota]()
