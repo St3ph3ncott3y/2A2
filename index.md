@@ -6,7 +6,7 @@
 * [Jack]()
 * [Alyssa]()
 * [Stephen]()
-* [Jackson]()
+* [Jackson]()https://github.com/JacksonCottier
 * [Nathan D]()
 * [Anthony]()
 * [Liam]()
