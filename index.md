@@ -14,7 +14,7 @@
 * [Dakota]()
 * [Angel]()
 * [Riley M]()
-* [Isaiah]()
+* [Isaiah](https://github.com/IsaiahMontez)
 * [Tyler]()
 * [Logan]()
 * [Ben]()
