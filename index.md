@@ -15,6 +15,6 @@
 * [Angel]()
 * [Riley M]()
 * [Isaiah](https://github.com/IsaiahMontez)
-* [Tyler]()
+* [Tyler](https://github.com/TylerRBoi)
 * [Logan]()
 * [Ben]()
