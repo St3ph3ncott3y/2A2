@@ -1,6 +1,6 @@
 # 2A2
 
-* [Riley B]()
+* [Riley B](https://github.com/RileyBennett/)
 * [Brian]()
 * [Nathan C-B]()
 * [Jack]()
